@@ -25,7 +25,7 @@ For those who prefer a quick overview, the dashboard is available as a static im
 
 Explore the full interactive experience of the dashboard through Tableau Public. This version allows you to dynamically filter the data and interact with the visualizations.
 
-- **[View the Interactive Tableau Dashboard](https://YOUR_TABLEAU_PUBLIC_URL)**
+- **[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/kelechukwu.innocent.ede/viz/WarehouseandRetailSalesDashboard/WarehouseandRetailSalesDashboard?publish=yes)**
 
 This interactive version is also embedded in the project’s GitHub Pages site for a seamless viewing experience:
 
